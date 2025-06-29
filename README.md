@@ -5,7 +5,7 @@
 **📍 Live Dashboard:**
 [🔗 View on Tableau Public](https://public.tableau.com/app/profile/shreemathigs/viz/PCOSInsightsDashboard/HomePagePCOS)
 
-![PCOS Dashboard](./PCOS%20Dashboard.png)
+![PCOS Dashboard](https://github.com/shreemathigs/PCOS-Insights-Dashboard/blob/1c67502f9207cf8aa3bd5d5b56081a5a85a76759/PCOS%20Navigation.png)
 
 ---
 
